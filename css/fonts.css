@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'Sansation Bold';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Sansation Bold'), local('Sansation-Bold'),
+      url(../fonts/sansation-bold.woff) format('woff'),
+      url(../fonts/sansation-bold.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Sansation Regular';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Sansation Regular'), local('Sansation-Regular'),
+      url(../fonts/sansation-regular.woff) format('woff'),
+      url(../fonts/sansation-regular.ttf) format('truetype');
+}
